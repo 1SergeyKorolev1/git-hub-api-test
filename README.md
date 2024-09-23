@@ -17,4 +17,4 @@ ___
 - Данные о токене, имени нового репозитория и все основные импорты находятся в "init" файле пакета "src"  
   ![scrin](https://sun9-37.userapi.com/impg/Rg0TlxY71WJmok-ZCb73rzFi5BLnQHv2rksMJw/UeHkK6VcCPs.jpg?size=728x373&quality=96&sign=7b4346b2ecc3ee32f75c6ea586425391&type=album)  
 - Запустите файл сценария "main.py"  
-- Запустите файл с тестами по пути project/tests/test_src.py
+- Запустите файл с тестами по пути project/tests/test_src.py (либо в терминале выполнить команду pytest --cov src/)
